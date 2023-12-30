@@ -14,4 +14,4 @@ You may instead elect to select a premade configuration by Casual Coders. Our pr
 - 4x Screw Terminals.  
 
 Diagram:  
-![Diagram](./Assets/Images/Mechanical%20Drawing.svg)
+![Diagram](./Assets/Images/Mechanical%20Drawing.png)
